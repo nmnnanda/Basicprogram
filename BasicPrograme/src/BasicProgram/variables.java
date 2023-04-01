@@ -24,5 +24,6 @@ public class variables {
 	                                          //Using object	
 	System.out.println(s1.collegeName);	
 	s1.show();
+	//scscac
 }
 }
